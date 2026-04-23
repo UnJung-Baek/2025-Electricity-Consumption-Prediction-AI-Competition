@@ -51,14 +51,17 @@ project/
 │   ├── building_info.csv
 │   └── sample_submission.csv
 │
-├── preprocess.ipynb
-├── autogluon.ipynb
-├── bytype_tabpfn.ipynb
-├── stacking_tabpfn.ipynb
-├── 건물별.ipynb
-├── ensemble.ipynb
+├── data_preprocessing.ipynb
 │
-├── env.txt
+├── building_local_seed_ensemble.ipynb
+├── building_local_stacking_model.ipynb
+│
+├── building_group_tabpfn_model.ipynb
+├── building_global_autogluon_model.ipynb
+│
+├── final_ensemble.ipynb
+│
+├── environment.txt
 ├── README.md
 └── .gitignore
 ```
