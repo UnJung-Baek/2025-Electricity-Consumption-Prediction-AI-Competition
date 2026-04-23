@@ -263,7 +263,6 @@ AutoGluon은 다양한 모델을 자동으로 학습 및 앙상블하는 AutoML 
 - 건물별 모델 (Local)
 - 건물 유형별 모델 (Group)
 - 전체 모델 (Global)
-- pfn_stacking (보정된 Local 모델)
 
 ### 가중치
 
