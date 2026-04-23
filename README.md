@@ -1,0 +1,1 @@
+# 2025-Electricity-Consumption-Prediction-AI-Competition
