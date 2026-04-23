@@ -181,9 +181,6 @@ Feature Engineering은 모델 성능에 가장 큰 영향을 준 핵심 단계�
 TabPFN은 사전학습된 Transformer 기반 모델로,  
 소규모 tabular 데이터 환경에서 강력한 성능을 보이는 것이 특징입니다.
 
-즉,
-
-> 데이터가 적을수록 TabPFN의 장점이 극대화됩니다.
 
 ---
 
