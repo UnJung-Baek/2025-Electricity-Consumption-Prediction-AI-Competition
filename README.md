@@ -5,8 +5,8 @@ TabPFN 기반 스태킹 및 앙상블을 활용한 전력사용량 예측 모델
 ## 🏆 대회 개요
 
 - 대회명: 2025 전력사용량 예측 AI 경진대회  
-- 주최: 한국에너지공단 × DACON  
-- 평가 지표: SMAPE (Symmetric Mean Absolute Percentage Error)
+- 주최: 한국에너지공단 × DACON
+- 링크: https://dacon.io/competitions/official/236531/overview/description
 
 ---
 
