@@ -32,7 +32,39 @@
 
 ---
 
-## 🎯 해결 전략
+## ⚙️ 실행 환경
+
+| 항목 | 내용 |
+|------|------|
+| Python | 3.10 / 3.12 |
+| 주요 라이브러리 | pandas, numpy, scikit-learn, tabpfn, autogluon, lightgbm, xgboost |
+
+---
+
+## 📁 프로젝트 구조
+```bash
+project/
+│
+├── data/
+│   ├── train.csv
+│   ├── test.csv
+│   ├── building_info.csv
+│   └── sample_submission.csv
+│
+├── preprocess.ipynb
+├── autogluon.ipynb
+├── bytype_tabpfn.ipynb
+├── stacking_tabpfn.ipynb
+├── 건물별.ipynb
+├── ensemble.ipynb
+│
+├── env.txt
+├── README.md
+└── .gitignore
+```
+---
+
+## 🎯 전략
 
 본 프로젝트에서는 단순히 모델 성능을 높이는 것이 아니라,  
 데이터의 구조적 특성을 반영한 모델링 전략을 설계하는 데 초점을 두었습니다.
